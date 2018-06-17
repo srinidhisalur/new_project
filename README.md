@@ -1,1 +1,3 @@
-# new_project
+# Hello i'm srinidhi enthusiastically created this repository with the moto of learning new things by exploring myself and seeking doubts from others...
+I'm eagerly seeing i could get some fresh projects regarding machine learning(becoz im currently learning it).
+I would appreciate if anyone encourages me in this aspect.
